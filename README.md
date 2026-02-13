@@ -3,7 +3,7 @@
 #### By **Wambua Julia Mwende**
 
 ## Live site
-https://julia-wambua.github.io/Moringa-projects/
+https://julia-wambua.github.io/Photography-website/
 
 ## Description
 This is a photography portfolio website showing some of my favourite photographs.It introduces the photographer in question through a short biography and also allows users to reach out using a contact form.
