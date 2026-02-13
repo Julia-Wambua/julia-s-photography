@@ -1,0 +1,136 @@
+h1{
+    color: blue;
+    background-color: aqua ;
+    font-size: xx-large;
+    font-family: serif;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    line-height: 100px;
+}
+
+h2{
+    text-align: center;
+    font-size: x-large;
+}
+
+
+p{
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+.card{
+  float: left;
+  width: 320px;
+  text-align: center;
+  margin: 4%;
+  box-sizing: border-box;
+ 
+}
+  
+
+#l1 {
+    width: 300px;
+    height: 300px;
+    border: 5px solid coral;
+
+}
+
+#l2{
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+}
+
+#l3{
+   height: 300px;
+   width: 300px;
+   border: 5px solid burlywood;
+
+}
+   
+
+#l4{
+
+   height: 300px;
+   width: 300px;
+   border: 5px solid #f87;
+
+}
+
+#l5{
+   width: 300px;
+   height: 300px;
+   border: 5px solid paleturquoise;
+
+
+
+}
+
+#l6{
+   width: 300px;
+   height: 300px;
+   border: 5px solid orange;
+}
+
+
+#a1{
+    height: 300px;
+    width: 1000px;
+}
+
+
+#p1{
+    
+    font-size: larger;
+
+
+}
+    
+   
+
+.cards{
+    display: flex;
+    width: normal;
+}
+
+#p2{
+    text-align: left;
+    font-size: larger;
+}
+
+li{
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: oblique;
+}
+
+footer{
+    text-align: center;
+    font-family: serif;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(71, 4, 134);
+}
+
+header{
+    text-align: center;
+    font-family: serif;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(71, 4, 134);
+}
+
+
+#a1{
+    border: 5px solid grey;
+}
