@@ -19,7 +19,7 @@ This project aims at showcasing aquired skills such as:
 * Ensure the presence of index.html, photography.css and an images folder containing all used images.
   
 ## Known Bugs
-At the moment, there are n6o known bugs. In case of their discovery, feel free to rach out or offer ideas on improvements that can be made.
+At the moment, there are no known bugs. In case of their discovery, feel free to rach out or offer ideas on improvements that can be made.
 
 ## Technologies Used
   1. HTML
